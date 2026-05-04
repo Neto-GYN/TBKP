@@ -1,0 +1,19 @@
+aula ensina a instalar "fira code"
+
+- CTRL + ,
+- canto superior direito (open settings)
+
+adicionar no texto
+
+"editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"editor.fontSize": 14,
+"editor.letterSpacing": 0.5,
+"editor.lineHeight": 24,
+"editor.autoIndent": "advanced",
+"editor.snippetSuggestions": "bottom",
+"intelephense.format.enable": true,
+"intelephense.completion.triggerParameterHints": true,
+"intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+"intelephense.completion.insertUseDeclaration": true,
+"intelephense.trace.server": "messages",
