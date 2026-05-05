@@ -1,0 +1,8 @@
+variaveis
+- toda variavel e definida começando com o $
+- as variaves podem conter apenas :
+-- letras
+-- numeros
+-- underline _ (sublinhado)
+-- as variaveis não podem começar com número
+-- as variaveis diferenciam maiusculas das letras minusculas
