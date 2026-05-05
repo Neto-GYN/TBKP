@@ -1,0 +1,5 @@
+variaveis
+- boas praticas 
+-- camelCase : $primeiroNome
+-- snake_case : $primeiro_nome
+- evite de usar nomes longos 
