@@ -1,0 +1,20 @@
+Tipos primitivos PHP
+
+- String : representa caracteres 'texto'
+-- $nome = "Neto";
+
+- Integer : numeros inteiros
+-- $idade = 36;
+
+- Float (Double) : numeros decimais
+-- $valor = 2.5;
+
+- Boolean : verdadeiro (true) ou falso (false)
+-- $situacao = true;
+
+
+
+
+
+
+
