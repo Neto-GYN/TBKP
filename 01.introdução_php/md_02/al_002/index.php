@@ -12,7 +12,7 @@
 <body>
     <h1>HSHOP</h1>
     <div>
-        <?= verifayAge(18);?>
+        <?= verifayAge(18); ?>
     </div>
 </body>
 </html>

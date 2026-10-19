@@ -1,4 +1,11 @@
 <?php
+    /**
+     * Verifica a idade
+     * 
+     * @param int $num1 Verifica se o valor e menor ou maior que $permittedAge
+     * 
+     * @return string retorna uma mensagem informando se a entrada e permitada ou não 
+     */
 
     function verifayAge(int $num1): string{
 
